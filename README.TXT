@@ -21,3 +21,5 @@ This small project implements a simple Bloom Filter.
        $ java -cp bloomfilter-simple-1.0.0.jar:lib/junit-4.10.jar org.junit.runner.JUnitCore org.schubert.bloom.SimpleBloomFilterTest
    (3) or, use ant to do unit test
        $ ant unittest
+
+That's easy!
